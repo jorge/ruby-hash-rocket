@@ -1,0 +1,14 @@
+{
+  "name": "ruby-hash-rocket",
+  "main": "./lib/ruby-hash-rocket",
+  "version": "1.0.0",
+  "description": "Inserts a hashrocket at the cursor position.",
+  "activationEvents": ["ruby-hash-rocket:insert"],
+  "repository": "https://github.com/atom/ruby-hash-rocket",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}

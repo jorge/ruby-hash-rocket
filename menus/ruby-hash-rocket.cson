@@ -1,0 +1,16 @@
+# See https://atom.io/docs/latest/creating-a-package#menus for more details
+'context-menu':
+  '.overlayer':
+      'Insert Ruby Hashrocket': 'ruby-hash-rocket:insert'
+
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Ruby Hashrocket'
+      'submenu': [
+        { 'label': 'Insert', 'command': 'ruby-hash-rocket:insert' }
+      ]
+    ]
+  }
+]
