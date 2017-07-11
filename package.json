@@ -6,10 +6,10 @@
   "activationEvents": [
     "ruby-hash-rocket:insert"
   ],
-  "repository": "https://github.com/erbmicha/ruby-hash-rocket",
+  "repository": "https://github.com/jorge/ruby-hash-rocket",
   "license": "MIT",
   "engines": {
-    "atom": ">=0.174.0 <2.0.0"
+    "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {}
 }
